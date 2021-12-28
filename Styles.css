@@ -1,0 +1,130 @@
+@media only screen and (max-device-width: 900px)  {
+    .botao1, .botao2, .botao3, .botao4, .botao5{
+        margin: 100%;
+        width: 50%;
+        padding: 10px;
+    }
+
+    .body{
+       width: 100%;
+       height: 20%;
+    }
+    .nome{
+        left: auto;
+        top: 20%;
+    }
+    
+}
+body{
+    position: absolute;
+    left: 0%;
+    background-image: url(./Imagens/img2.png);
+}
+.img1{
+    position: relative;
+    top: 40px;
+    left: 850px;
+    border-radius: 50%;
+    border: rgb(226, 72, 193) solid;
+    width: 20%;
+    height: auto;
+ 
+  
+}
+.nome{
+    position: relative;
+    top: 60px;
+    left: 849px;
+    width: auto;
+    font-size: 30px;
+    color: rgb(70, 6, 45);
+    border-color: blue;
+}
+
+.botao1{
+position: relative;
+left: 600px;
+top: 120px;
+padding: 12px;
+border: 0.1px solid rgb(226, 43, 165);
+width: 60%;
+height: 59px;
+font-size: larger;
+color: rgb(100, 21, 96);
+background:rgb(228, 99, 228) ;
+border-radius: 15px;
+}
+
+.botao2{
+position: relative;
+left: 600px;
+top: 150px;
+padding: 12px;
+border: 0.1px solid rgb(226, 43, 165);
+width: 60%;
+height: 59px;
+font-size: larger;
+color: rgb(100, 21, 96);
+background:rgb(226, 43, 171) ;
+border-radius: 15px;
+}
+
+.botao3{
+    position: relative;
+    left: 600px;
+    top: 180px;
+    padding: 12px;
+    border: 0.1px solid rgb(226, 43, 165);
+    width: 60%;
+    height: 59px;
+    font-size: larger;
+    color: rgb(100, 21, 96);
+    background:rgb(228, 99, 228) ;
+    border-radius: 15px;
+    
+}
+
+.botao4{
+    position: relative;
+    left: 600px;
+    top: 211px;
+    padding: 12px;
+    border: 0.1px solid rgb(226, 43, 165);
+    width: 60%;
+    height: 59px;
+    font-size: larger;
+    color: rgb(100, 21, 96);
+    background:rgb(226, 43, 171) ;
+    border-radius: 15px;
+    
+}
+
+
+.botao5{
+position: relative;
+top: 241px;
+left: 600px;
+padding: 12px;
+border: 0.1px solid rgb(226, 43, 165);
+width: 60%;
+height: 59px;
+font-size: larger;
+color: rgb(100, 21, 96);
+background: rgb(228, 99, 228) ;
+border-radius: 15px;
+}
+.whats{
+position: absolute;
+top: 900px;
+left: 859px;
+}
+
+.fa-whatsapp{
+    position: absolute;
+    top: 892px;
+    left: 989px;
+    color:#fff;
+    background:
+    linear-gradient(#25d366,#25d366) 14% 84%/16% 16% no-repeat,
+    radial-gradient(#25d366 60%,transparent 0);
+  }
