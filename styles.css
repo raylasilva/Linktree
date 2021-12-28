@@ -1,3 +1,17 @@
+@media (max-width: 1000px) {
+
+    body {
+        position: relative;
+          background: rgb(214, 137, 180);
+     }
+     .fa-whatsapp{
+         position: absolute;
+     }
+     .whats{
+         position: absolute;
+     }
+
+}
 body{
     position: absolute;
     background-image: url(./Imagens/img2.png);
