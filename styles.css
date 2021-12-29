@@ -1,15 +1,8 @@
-@media (max-width: 1000px) {
-
-    body {
-        position: relative;
-          background: rgb(214, 137, 180);
-     }
-     .fa-whatsapp{
-         position: absolute;
-     }
-     .whats{
-         position: absolute;
-     }
+*{
+    position: relative;
+    margin: 0;
+    width: 1000px;
+    
 
 }
 body{
@@ -19,7 +12,7 @@ body{
 .img1{
     position: relative;
     top: 40px;
-    left: 850px;
+    left: 820px;
     border-radius: 50%;
     border: rgb(226, 72, 193) solid;
     width: 20%;
@@ -30,7 +23,7 @@ body{
 .nome{
     position: relative;
     top: 60px;
-    left: 849px;
+    left: 819px;
     width: auto;
     font-size: 30px;
     color: rgb(70, 6, 45);
@@ -112,13 +105,13 @@ border-radius: 15px;
 .whats{
 position: absolute;
 top: 900px;
-left: 859px;
+left: 829px;
 }
 
 .fa-whatsapp{
     position: absolute;
     top: 892px;
-    left: 989px;
+    left: 963px;
     color:#fff;
     background:
     linear-gradient(#25d366,#25d366) 14% 84%/16% 16% no-repeat,
