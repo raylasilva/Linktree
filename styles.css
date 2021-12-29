@@ -1,14 +1,25 @@
+@media(max-width: 900px) {
+    body {
+     position: relative;
+     margin-top: 0px; 
+   
+  
+  }
+}
 *{
     position: relative;
     margin: 0;
     width: 1000px;
+  
+ 
     
-
 }
 body{
     position: absolute;
     background-image: url(./Imagens/img2.png);
+    
 }
+
 .img1{
     position: relative;
     top: 40px;
@@ -111,7 +122,7 @@ left: 829px;
 .fa-whatsapp{
     position: absolute;
     top: 892px;
-    left: 963px;
+    left: 973px;
     color:#fff;
     background:
     linear-gradient(#25d366,#25d366) 14% 84%/16% 16% no-repeat,
